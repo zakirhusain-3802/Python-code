@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "efa4aa28ad4f5119",
+    "type": "split",
+    "children": [
+      {
+        "id": "71882594a9d810a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc011d378112eb43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f68bf53a5e20cd24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50222c29cc06e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf2634a9814f165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bd997839940681a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ee6cf696983296e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "264632cb725285df",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fdf209e2ea4319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384786480cc42e85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62b35c9423cf8140",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83921527222a9e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3489d33840a8fefa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "cc011d378112eb43",
+  "lastOpenFiles": [
+    "tic tac toe/tic-tac-toe.md",
+    "tic tac toe/photos/Pasted image 20221014104744.png",
+    "tic tac toe/PDF/tic-tac-toe.pdf",
+    "tic tac toe/#Readme.md"
+  ]
+}
